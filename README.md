@@ -12,7 +12,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-## Serve FrontEnd locally
+## Serve Frontend locally
 ```sh
 cd ui
 
