@@ -1,4 +1,6 @@
-
+## About
+This repo goes hand-in-hand with the following blog post
+- [https://dimmaski.com/serve-vue-fastapi/](https://dimmaski.com/serve-vue-fastapi/)
 ## Serve Backend locally
 
 ```sh
