@@ -24,3 +24,8 @@ npm run install
 # serve
 npm run watch
 ```
+
+## Run FE and BE in hot-reload mode
+```
+npm run watch --prefix ui & uvicorn api/main:app --reload && fg
+```
